@@ -5,16 +5,17 @@ This project demonstrates training and optimization of a **K-Nearest Neighbors (
 ---
 
 ## Project Structure
-mnist-knn-classification/
-│
-├── notebooks/
-│ ├── without_PCA.ipynb 
-│ └── with_PCA_KNN.ipynb 
-│
-├── dataset/
-│ └── mnist.csv 
-├── README.md
-├── requirements.txt
+```bash
+    mnist-knn-classification/
+    │
+    ├── notebooks/
+    │ ├── without_PCA.ipynb 
+    │ └── with_PCA_KNN.ipynb 
+    │
+    ├── dataset/
+    │ └── mnist.csv 
+    ├── README.md
+    ├── requirements.txt
 
 
 ## Project Overview
@@ -26,7 +27,7 @@ mnist-knn-classification/
 ---
 
 ## Libraries Used
-- Python 3.x  
+- `Python 3.x`   
 - `scikit-learn`  
 - `numpy`  
 - `pandas`  
