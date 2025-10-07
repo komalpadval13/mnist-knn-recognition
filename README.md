@@ -49,14 +49,18 @@ This project demonstrates training and optimization of a **K-Nearest Neighbors (
 ## How to Run
 
 1. Clone the repository:
+
            git clone https://github.com/komalpadval13/mnist-knn-recognition.git
 
 2.Navigate to the project folder:
+
           cd mnist-knn-classification
 
 3.Install dependencies:
+
           pip install -r requirements.txt
 
 4.Run the notebooks:
+
           without_PCA.ipynb
           with_PCA_KNN.ipynb
