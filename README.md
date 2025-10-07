@@ -5,17 +5,17 @@ This project demonstrates training and optimization of a **K-Nearest Neighbors (
 ---
 
 ## Project Structure
-```bash
-    mnist-knn-classification/
-    │
-    ├── notebooks/
-    │ ├── without_PCA.ipynb 
-    │ └── with_PCA_KNN.ipynb 
-    │
-    ├── dataset/
-    │ └── mnist.csv 
-    ├── README.md
-    ├── requirements.txt
+
+           mnist-knn-classification/
+            │
+            ├── notebooks/
+            │ ├── without_PCA.ipynb 
+            │ └── with_PCA_KNN.ipynb 
+            │
+            ├── dataset/
+            │ └── mnist.csv 
+            ├── README.md
+            ├── requirements.txt
 
 
 ## Project Overview
@@ -49,18 +49,14 @@ This project demonstrates training and optimization of a **K-Nearest Neighbors (
 ## How to Run
 
 1. Clone the repository:
-```bash
-git clone https://github.com/komalpadval13/mnist-knn-recognition.git
+           git clone https://github.com/komalpadval13/mnist-knn-recognition.git
 
 2.Navigate to the project folder:
-```bash
-cd mnist-knn-classification
+          cd mnist-knn-classification
 
 3.Install dependencies:
-```bash
-pip install -r requirements.txt
+          pip install -r requirements.txt
 
 4.Run the notebooks:
-```bash
-without_PCA.ipynb
-with_PCA_KNN.ipynb 
+          without_PCA.ipynb
+          with_PCA_KNN.ipynb
